@@ -17,7 +17,7 @@ from Unit 1 - 5 below  */
 	float: left;
 	margin: 8%;
 } 
-#name{
+.name{
 	color: #ff0000;
 	font-weight: bold;
 }
